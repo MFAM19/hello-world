@@ -1,5 +1,5 @@
 # hello-world
-My first repository on GitHub.
+My first repository is GitHub.
 # Each line is a file pattern followed by one or more owners.
 
 # These owners will be the default owners for everything in
